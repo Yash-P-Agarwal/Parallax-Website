@@ -1,0 +1,1 @@
+# A parallax website is a modern web design technique that creates an immersive and visually appealing user experience. It involves multiple layers of content that move at different speeds as the user scrolls down the page, creating a sense of depth and interactivity.
